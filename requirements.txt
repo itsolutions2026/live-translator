@@ -1,0 +1,11 @@
+faster-whisper
+pyaudiowpatch
+sounddevice
+numpy
+soxr
+edge-tts
+miniaudio
+sentencepiece
+keyboard
+nvidia-cublas-cu12
+nvidia-cudnn-cu12==9.*

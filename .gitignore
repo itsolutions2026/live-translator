@@ -1,0 +1,12 @@
+# Logs and local run state
+app.log
+
+# Python / models
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Downloaded model caches, if any land here
+models/
+*.bin

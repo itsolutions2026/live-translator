@@ -1,0 +1,13 @@
+{
+  "loopback": "Speakers (USB Audio Device) [Loopback]",
+  "mic": "Microphone (USB Audio Device)",
+  "output": "CABLE Input (VB-Audio Virtual Cable)",
+  "monitor": "Speakers (USB Audio Device)",
+  "monitor_on": true,
+  "voice": "Gonzalo (Colombia, male)",
+  "model": "large-v3-turbo",
+  "language": "Spanish",
+  "voice_es": "Jorge (Mexico, male)",
+  "voice_ms": "Osman (Malaysia, male)",
+  "engine": "Basic (offline NLLB)"
+}
